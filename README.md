@@ -6,7 +6,7 @@ Proyecto APIEventos archivo appsettings.json modificar la cadena de conexion a l
 Proyecto UI interfaz del usuario archivo web.config appSettings modificar el value de la ruta que conecta a la api una vez en ejecucion y la 
 otra variable images el value donde se guardan las imagenes esa no modificarla. 
 
-En la raíz del proyecto archivo de Script de la base de datos con la estrucutara de tablas y la información de prueba. 
+En la raíz del proyecto archivo de Script de la base de datos con la estructura de tablas y la información de prueba. 
 
 Tecnología utilizada:
 
@@ -31,6 +31,3 @@ La API deberá permitir:
   o Búsqueda de eventos con los siguientes filtros: (Solo el metodo en la api)
     ▪ Por localización 
     ▪ Por título del evento 
-
-
-
