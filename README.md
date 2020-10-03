@@ -33,4 +33,4 @@ La API deberá permitir:
     ▪ Por título del evento 
 
 
-En la raíz del proyecto dejo los instaladores para probar la aplicacion. 
+
